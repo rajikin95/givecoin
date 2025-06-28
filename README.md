@@ -1,6 +1,7 @@
 <p align="center">
   <img src="file_00000000401c62308b498dba9a286652.png"="$GIVE Logo" width="260"/>
 </p>
+
 💚 $GIVE – Born from the Spirit of Compassion
 
 $GIVE is not just a cryptocurrency. It was born from real stories. From seeing people around us struggle silently. From witnessing communities that are full of potential, but forgotten. From feeling the urge to do something — even if it's small.
@@ -27,3 +28,11 @@ We’re not building hype. We’re building heart.
 If you believe Web3 should be more human, more hopeful — then $GIVE is for you.
 
 **Let’s spread giving. Let’s turn compassion into a currency.**
+
+## 🔗 Important Links
+
+- 🌐 Website: [https://givecoin.vercel.app](https://givecoin.vercel.app)
+- 💬 Telegram: [https://t.me/GIVEcoin07(https://t.me/GIVEcoin07)
+- 🐦 Twitter: [https://twitter.com/$GIVEcoin](https://twitter.com/$GIVEcoin)
+
+- 
