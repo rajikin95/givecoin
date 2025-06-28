@@ -1,5 +1,5 @@
-https://raw.githubusercontent.com/logobro/give-logo/main/give-logo.png<p align="center">
-  <img src="https://raw.githubusercontent.com/logobro/give-logo/main/give-logo.png" alt="$GIVE Logo" width="260"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/openai-image-host/give-logo/main/give-logo.png" alt="$GIVE Logo" width="260"/>
 </p>
 </p># 💚 $GIVE – Born from the Spirit of Compassion
 
