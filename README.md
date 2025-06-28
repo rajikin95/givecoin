@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="give-logo.png" alt="$GIVE Logo" width="260"/>
-</p>💚 $GIVE – Born from the Spirit of Compassion
+  <img src="file_00000000401c62308b498dba9a286652.png"="$GIVE Logo" width="260"/>
+</p>
+💚 $GIVE – Born from the Spirit of Compassion
 
 $GIVE is not just a cryptocurrency. It was born from real stories. From seeing people around us struggle silently. From witnessing communities that are full of potential, but forgotten. From feeling the urge to do something — even if it's small.
 
