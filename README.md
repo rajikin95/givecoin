@@ -35,4 +35,41 @@ If you believe Web3 should be more human, more hopeful — then $GIVE is for you
 - 💬 Telegram: [https://t.me/GIVEcoin07(https://t.me/GIVEcoin07)
 - 🐦 Twitter: [https://twitter.com/$GIVEcoin](https://twitter.com/$GIVEcoin)
 
+
+## 📊 Tokenomics
+
+Total Supply: 1,000,000,000 $GIVE
+
+- 🔁 50% — Liquidity (fair launch di pump.fun)
+- 🎁 20% — Airdrop & Community Rewards
+- 💚 15% — Charity & Social Impact
+- 🧠 10% — Development & Future Features
+- 🔒 5%  — Team (locked & vested)
+
+> ✅ No Presale • ✅ No Dev Dump • ✅ 100% Transparency
+>
+>## 🛣️ Roadmap
+
+### ✅ Phase 1 – Foundation
+- Launch token on Pump.fun
+- Build community on Telegram & Twitter
+- Launch first version of website
+- Publish Tokenomics & whitepaper
+
+### 🚧 Phase 2 – Awareness
+- Start airdrop campaign
+- Partner with micro-influencers & Web3 creators
+- Launch “1 Good Act A Day” social challenge
+- Begin charity micro-giving pilot
+
+### 🔜 Phase 3 – Utility & Growth
+- Develop $GIVE donation platform (Web3)
+- Integrate $GIVE tipping/bot system (Telegram & X)
+- List on community DEX tools (Birdeye, Dexscreener)
+- Launch merch drop to fund causes
+
+### 🔮 Phase 4 – Vision Expansion
+- DAO for community voting on donations
+- Expand global giving campaigns
+- $GIVE becomes symbol of empathy on-chain 
 - 
