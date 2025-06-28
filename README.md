@@ -1,4 +1,4 @@
- 💚 $GIVE – Born from the Spirit of Compassion
+file_00000000401c62308b498dba9a286652.png 💚 $GIVE – Born from the Spirit of Compassion
 
 $GIVE is not just a cryptocurrency. It was born from real stories. From seeing people around us struggle silently. From witnessing communities that are full of potential, but forgotten. From feeling the urge to do something — even if it's small.
 
