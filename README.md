@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/openai-tools/give-assets/main/give-logo.png" alt="$GIVE Logo" width="280"/>
+  <img src="https://raw.githubusercontent.com/logobro/give-logo/main/give-logo.png" alt="$GIVE Logo" width="260"/>
 </p>
 </p># 💚 $GIVE – Born from the Spirit of Compassion
 
