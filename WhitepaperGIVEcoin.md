@@ -1,5 +1,27 @@
 # 💚 $GIVE Token – Whitepaper
 
+# 🧠 Initial Planning of $GIVE Token
+
+Before creating this token, we started with a simple question:  
+**"What if Web3 wasn't just about profit, but also about giving?"**
+
+$GIVE was born from empathy — for those who struggle every day, whether we see them around us or on social media from all over the world.  
+We realized that blockchain technology holds great potential not only to generate wealth, but also to spread kindness in a real and meaningful way.
+
+---
+
+## 🎯 Focus Areas During Early Planning
+
+- **Core Mission:** Using the power of community and Web3 to help others.  
+- **Core Values:** Transparency, solidarity, and real action.  
+- **Visual Identity:** A design that reflects "kindness," using visual elements like giving hands, hearts, and the color green for life.  
+- **Platform:** Choosing Pump.fun as our launchpad due to its speed and strong community support.  
+- **Resources:** Designing a realistic roadmap that can be achieved together with the community.
+
+---
+
+This token is not just a project — it is a **movement**.  
+A movement to transform crypto into a tool for giving, not just for speculation. 💚
 ---
 
 ## ✨ Inspiration & Philosophy Behind $GIVE
