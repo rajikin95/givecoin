@@ -27,8 +27,8 @@ givecoin/
 ├── README.md : https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/README.md
 ├── LICENSE : https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/LICENSE
 ├── whitepaper.md: https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/whitepaper.md
-├── roadmap.md
-├── planning.md
+├── roadmap.md : https://github.com/rajikin95/givecoin/blob/e47816b76f36147021a402479acbc96e1fa49dcd/roadmap.md
+├── planning.md : https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/Planning.md
 ├── assets/
 │   ├── logo-give.png
 │   ├── roadmap.png
