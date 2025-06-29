@@ -24,9 +24,9 @@ Welcome to the official repository of $GIVE — a Web3 movement built on kindnes
 
 ```
 givecoin/
-├── README.md
-├── license
-├── whitepaper.md
+├── README.md : https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/README.md
+├── LICENSE : https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/LICENSE
+├── whitepaper.md: https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/whitepaper.md
 ├── roadmap.md
 ├── planning.md
 ├── assets/
