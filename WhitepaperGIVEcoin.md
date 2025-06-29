@@ -187,7 +187,7 @@ Let’s turn compassion into currency.
 ## 🔗 Official Links
 
 - Telegram Group: [https://t.me/GIVEcoin07](https://t.me/GIVEcoin07)  
-- X (Twitter): [https://x.com/topik_rajikin](https://x.com/topik_rajikin)
+- X (Twitter): https://x.com/GIVEcoin_?t=p89TlJAD9zCrcnAJc38bQg&s=09
 
 ---
 
