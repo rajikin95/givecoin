@@ -1,4 +1,4 @@
-# 💚 $GIVE Token – Whitepaper
+# 💚 $GIVEcoin Token – Whitepaper
 
 # 🧠 Initial Planning of $GIVE Token
 
