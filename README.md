@@ -31,7 +31,7 @@ givecoin/
 ├── planning.md : https://github.com/rajikin95/givecoin/blob/c9f44ea913d36125d461a215377470f4f77396cc/Planning.md
 ├── assets/
 │   ├── logo-give.png : thumbnail.png
-│   ├── roadmap.png
+│   ├── roadmap.png : roadmap.png
 │   └── thumbnail.png
 ├── translations/
 │   ├── whitepaper-id.md
