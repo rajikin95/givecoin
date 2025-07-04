@@ -1,6 +1,6 @@
 
 
-# 🧠 Initial Planning of $GIVEcoin
+# 🧠 Initial Planning of $GIVE
 
 Before creating this token, we started with a simple question:  
 **"What if Web3 wasn't just about profit, but also about giving?"**
