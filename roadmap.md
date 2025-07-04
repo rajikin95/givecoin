@@ -1,4 +1,4 @@
-# 🗺️ $GIVEcoin DEX Roadmap
+# 🗺️ $GIVE DEX Roadmap
 
 This roadmap outlines the step-by-step development of the $GIVE crypto exchange (DEX) — a community-powered Web3 platform focused on impact and generosity.
 
