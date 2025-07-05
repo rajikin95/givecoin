@@ -62,9 +62,9 @@ YouTube thumbnails
 
 YouTube: youtube.com/@GiveToken
 
-Telegram: t.me/BerikanToken
+Telegram: t.me/givecoin07
 
-Twitter/X: twitter.com/GiveToken
+Twitter/X: twitter.com/@givecoin_
 
 
 
