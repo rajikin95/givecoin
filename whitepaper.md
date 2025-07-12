@@ -118,11 +118,11 @@ To build a Web3 ecosystem rooted in compassion, solidarity, and real-world impac
 
 | Allocation        | Percentage | Description                        |
 |-------------------|------------|------------------------------------|
-| Liquidity         | 50%        | Fair launch on Pump.fun            |
-| Airdrop           | 20%        | Community growth & engagement      |
-| Charity & Impact  | 15%        | Real-world giving & micro-aid      |
-| Development       | 10%        | Platform, tools, integrations      |
-| Team (vested)     | 5%         | Locked and gradually released      |
+| Liquidity         | 100%        | Fair launch on Pump.fun            |
+| Airdrop           | 0%        | Community growth & engagement      |
+| future community  | 0%        | Real-world giving & micro-aid      |
+| Development       | 0%        | Platform, tools, integrations      |
+| Team (vested)     | 0%         | Locked and gradually released      |
 
 ✅ No Presale • ✅ No Dev Dump • ✅ 100% Transparency
 
