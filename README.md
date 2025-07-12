@@ -60,8 +60,6 @@ YouTube thumbnails
 
 🌐 Social Media
 
-YouTube: youtube.com/@GiveToken
-
 Telegram: t.me/givecoin07
 
 Twitter/X: twitter.com/@givecoin_
