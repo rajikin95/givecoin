@@ -10,7 +10,7 @@ This roadmap outlines the step-by-step development of the $GIVE crypto exchange 
 - [x] Publish whitepaper, GitHub documentation, and infographics  
 - [x] Build Telegram, Twitter, and YouTube communities  
 - [x] Kick off the “Give to Survive” social campaign  
-- [x] Activate educational Web3 content  
+
 
 ---
 
