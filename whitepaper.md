@@ -126,6 +126,11 @@ To build a Web3 ecosystem rooted in compassion, solidarity, and real-world impac
 
 ✅ No Presale • ✅ No Dev Dump • ✅ 100% Transparency
 
+
+
+Airdrop & all community distributions will take place after the migration to Raydium
+
+
 ---
 
 ## 🛣️ Roadmap
